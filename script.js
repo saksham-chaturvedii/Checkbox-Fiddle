@@ -1,6 +1,6 @@
 let mainbox = document.getElementsByClassName("mainbox")[0];
 
-for(let i=1; i<400; i++)
+for(let i=1; i<401; i++)
 {
     let box = document.createElement("div");
     box.className = "box";
